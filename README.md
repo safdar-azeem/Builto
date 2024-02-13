@@ -1,6 +1,6 @@
 # Create Websites, Resumes, and Presentations – All in One Place - Builto
 
-Build stunning websites, resumes, and presentations effortlessly with [Builto](https://builto.com?ref=github_safdar) . Enjoy real-time template swapping, diverse components, and stylish designs. Benefit from the best CMS, SEO, and custom domains for a superior user experience, ensuring your site's success.
+Build stunning websites, resumes, and presentations Easily with [Builto](https://builto.com?ref=github_safdar) . Easy customization, theme change, template switching, Utilize CMS, custom domain, SEO-friendly features,fully dynamic, and included analytics. Perfect for portfolio, bloggers, business owners, and e-commerce sites.
 
 ## Building Websites Made Simple with Builto:
 
