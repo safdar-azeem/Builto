@@ -4,7 +4,7 @@ Build stunning websites, resumes, and presentations Easily with [Builto](https:/
 
 ## Building Websites Made Simple with Builto:
 
-Say goodbye to complicated coding and design knowledge! Builto's quick web builder tool is your key to creating visually striking websites with ease. – just follow simple steps to make a website for your business, blog, portfolio or online ecommerce store. Whether you want to sell things, show your work, share thoughts in a blog, or set up a business site, it's simple. Pick from great website designs and make your online space special. You'll ask yourself why you didn't start earlier
+Say goodbye to complicated coding and design knowledge! Builto's quick web builder tool is your key to creating visually striking websites with ease. – just follow simple steps to make a website for your business, blog, portfolio or online ecommerce store. Whether you want to sell things, show your work, share thoughts in a blog, or set up a business site, it's simple. Pick from great website designs and make your online space special. You'll ask yourself why you didn't start earlier.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7y0ol3gof4gxqy8v049w.png)
 
