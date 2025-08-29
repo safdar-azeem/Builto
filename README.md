@@ -1,4 +1,4 @@
-# Create Websites, Resumes, and Presentations – All in One Place - Builto
+# Build Websites, Create Resumes, Write Notes, Draw on Whiteboard & Manage Tasks – All in One Place - Builto
 
 Build stunning websites, resumes, and presentations Easily with [Builto](https://builto.com?ref=github_safdar) . Easy customization, theme change, template switching, Utilize CMS, custom domain, SEO-friendly features,fully dynamic, and included analytics. Perfect for portfolio, bloggers, business owners, and e-commerce sites.
 
